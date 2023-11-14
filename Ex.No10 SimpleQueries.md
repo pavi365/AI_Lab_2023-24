@@ -35,10 +35,10 @@ food(peanuts).
 ```
 
 ### Output:
-```
+
 ![image](https://github.com/pavi365/AI_Lab_2023-24/assets/115135775/26a86e72-1d60-4ea9-a0d4-53415f53c677)
 
-```
+
 ### Task 2:
 Consider the following facts and represent them in predicate form: <br>              
 1.	Steve likes easy courses. <br> 
@@ -57,9 +57,9 @@ easycourse(X):-
 course(bk301,dept(havefun)).
 ```
 ### Output:
-```
+
 ![image](https://github.com/pavi365/AI_Lab_2023-24/assets/115135775/7e705729-5888-4e33-a21a-4f63b6377be2)
-```
+
 ### Task 3:
 Consider the statement <br> 
 “This is a crime for an American to sell weapons to hostile nations. The Nano , enemy of America has some missiles and its missiles were sold it by Colonal West who is an American” <br> 
@@ -85,11 +85,9 @@ american(west).
 ```
 
 ### Output:
-```
+
 ![image](https://github.com/pavi365/AI_Lab_2023-24/assets/115135775/493bc6eb-5ec4-4d00-93a1-1dc7a2d1c473)
-```
+
 ## Result:
 Thus the prolog programs were executed successfully and the answer of query was found.
 
-### Result:
-Thus the prolog programs were executed successfully and the answer of query was found.
