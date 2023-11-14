@@ -94,13 +94,9 @@ outputs = gr.outputs.Textbox()
 app = gr.Interface(fn=diabetes, inputs=['number','number','number','number','number','number','number','number'], outputs=outputs,description="Detection of Diabeties")
 app.launch(share=True)
 
+
 ### Output:
-![WhatsApp Image 2023-11-04 at 8 44 39 AM](https://github.com/Pavi365/AI_Lab_2023-24/assets/127846109/370cf380-d95a-4951-8cd1-c4e95f4cbb4c)
-
-![WhatsApp Image 2023-11-04 at 8 44 31 AM](https://github.com/Pavi365/AI_Lab_2023-24/assets/127846109/64f036e1-b1b5-4c17-a145-c186aa1ad2ec)
-
-![WhatsApp Image 2023-11-04 at 8 37 56 AM](https://github.com/Pavi365/AI_Lab_2023-24/assets/127846109/844e144e-0da2-401e-8c0c-4033006f3abc)
-
+![Alt text]("C:\Users\Pavithra\Downloads\ai.png")
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
