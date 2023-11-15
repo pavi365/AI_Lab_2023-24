@@ -94,9 +94,8 @@ outputs = gr.outputs.Textbox()
 app = gr.Interface(fn=diabetes, inputs=['number','number','number','number','number','number','number','number'], outputs=outputs,description="Detection of Diabeties")
 app.launch(share=True)
 
-
 ### Output:
-
+"C:\Users\SEC\Pictures\AI 13.png
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
